@@ -4,7 +4,7 @@ const app = express();
 const mongoose = require("mongoose");
 const _ = require("lodash");
 
-mongoose.connect("mongodb://localhost/listDB", {
+mongoose.connect("mongodb+srv://TasneemZH:itisasecret@todolist-cluster.q00ti.mongodb.net/taskDB", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
@@ -163,6 +163,10 @@ app.post("/", function(req, res) {
 
 
 // Server
-app.listen(3000, function() {
-  console.log("The server is running on port 3000...");
+let port = process.env.PORT;
+if (port == null || port == "") {
+  port = 8000;
+}
+app.listen(port, function() {
+  console.log("The server is currently running...");
 });
