@@ -6,7 +6,7 @@ HTML + CSS + JavaScript + EJS + Node.js + Express + MongoDB
 
 You can open the site through your local server on 3000 port by typing:
 
-- the URL: "http://localhost:3000/" and "localhost:3000/[any parameter]"
+- the URL: "http://localhost:3000/" and "http://localhost:3000/[any parameter]"
 
 **and** 
 
