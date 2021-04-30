@@ -1,12 +1,9 @@
-const express = require("express");
+onst express = require("express");
 const ejs = require("ejs");
 const app = express();
 const mongoose = require("mongoose");
 const _ = require("lodash");
 
-// Change the link below with your connection on MongoDB Atlas
-// Rely on the cluster built with your account on MongoDB Atlas
-// Choose the IP on the "Security -> Network Access" to be from anywhere
 mongoose.connect("mongodb+srv://TasneemZH:itisasecret@todolist-cluster.q00ti.mongodb.net/listDB", {
   useNewUrlParser: true,
   useUnifiedTopology: true

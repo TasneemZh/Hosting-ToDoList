@@ -8,6 +8,3 @@
 npm-debug.log
 
 *.env
-
-# Contains my connection link to the Mongo Atlas which contains my password
-myApp.js
