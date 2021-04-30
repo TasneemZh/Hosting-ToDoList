@@ -4,7 +4,7 @@ const app = express();
 const mongoose = require("mongoose");
 const _ = require("lodash");
 
-mongoose.connect("mongodb+srv://TasneemZH:itisasecret@todolist-cluster.q00ti.mongodb.net/taskDB", {
+mongoose.connect("mongodb+srv://TasneemZH:itisasecret@todolist-cluster.q00ti.mongodb.net/listDB", {
   useNewUrlParser: true,
   useUnifiedTopology: true
 });
