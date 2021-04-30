@@ -3,7 +3,7 @@
 # This folder is ignored since Heruko process what is needed based on package.JSON
 # However, the dependencies should be installed by typing `npm i [package-name]`
 # ...if the project would be hosted locally
-/node_modules
+node_modules/
 
 npm-debug.log
 
