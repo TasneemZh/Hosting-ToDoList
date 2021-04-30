@@ -34,4 +34,4 @@ NOTE: The branch could be any other name than *master*, type your local branch n
 
 For more details, see:
 
-![Preparing a codebase for Heroku deployment](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment#1-track-your-codebase-in-a-git-repository)
+[Preparing a codebase for Heroku deployment](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment#1-track-your-codebase-in-a-git-repository)
