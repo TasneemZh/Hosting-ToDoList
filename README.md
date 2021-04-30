@@ -6,11 +6,13 @@ HTML + CSS + JavaScript + EJS + Node.js + Express + MongoDB
 
 You can open the site through your local server on 3000 port by typing:
 
-- the URL: "http://localhost:3000/" and "http://localhost:3000/[any-parameter]"
+- the URL: http://localhost:3000/ and http://localhost:3000/[any-parameter]
 
 **and** 
 
-- `nodemon [app.js]` on your HyperTerminal
+- `nodemon (app.js)` on your HyperTerminal
+
+NOTE: Specifying *app.js* after *nodemon* is optional since it is determined to be the *main file* in *package.JSON*
 
 -----------------
 
