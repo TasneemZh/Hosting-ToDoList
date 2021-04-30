@@ -16,9 +16,11 @@ NOTE: Specifying *app.js* after *nodemon* is optional since it is determined to 
 
 -----------------
 
-You have to replace the **<Username>** and **<PASSWORD>** parameters with yours by making an account on Heroku (For more details, see app.js comments)
+You can replace the connection with *MongoDB Atlas* with yours by making an account on MongoDB Atlas (For more details, see app.js comments and [the reference](https://www.mongodb.com/try?jmp=nav) at the end)
 
-Your changes take effect on your local server but not the site unless you deploy your git on Heroku after making an account on Heroku
+Your changes take effect on your local server but not the site unless you deploy your git on Heroku after making an account on Heroku.
+
+NOTE: If not interested in deploying the project remotely, then check this one: [To-Do-List App](https://github.com/TasneemZh/To-Do-List)
 
 -----------------
 
@@ -35,5 +37,9 @@ NOTE: The branch could be any other name than *master*, type your local branch n
 -----------------
 
 For more details, see:
+
+[MongoDB Atlas: Create a free account to deploy your database and link it later with your site on the Internet](https://www.mongodb.com/try?jmp=nav)
+
+**and**
 
 [Preparing a codebase for Heroku deployment](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment#1-track-your-codebase-in-a-git-repository)
