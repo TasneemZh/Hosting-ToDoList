@@ -10,7 +10,7 @@ You can open the site through your local server on 3000 port by typing:
 
 **and** 
 
-- "nodemon [app.js]" on your HyperTerminal
+- `nodemon [app.js]` on your HyperTerminal
 
 -----------------
 
@@ -22,11 +22,11 @@ Your changes take effect on your local server but not the site unless you deploy
 
 Make sure to:
 
-1- create a site on Heroku to deploy your project on it by typing: heroku create [your-site-name]
+1- create a site on Heroku to deploy your project on it by typing: `heroku create [your-site-name]`
 
-2- update your local repository on Git (type on HyperTerminal: git add . THEN git commit -m "your message")
+2- update your local repository on Git (type on HyperTerminal: `git add .` THEN `git commit -m "[your message]"`)
 
-3- push your local repository to the remote repository of your Heroku (type on HyperTerminal: git push heroku [master])
+3- push your local repository to the remote repository of your Heroku (type on HyperTerminal: `git push heroku [master]`)
 
 NOTE: The branch could be any other name than *master*, type your local branch name if that is the case
 
