@@ -43,3 +43,7 @@ For more details, see:
 **and**
 
 [Preparing a codebase for Heroku deployment](https://devcenter.heroku.com/articles/preparing-a-codebase-for-heroku-deployment#1-track-your-codebase-in-a-git-repository)
+
+-----------------
+
+I heard there are awesome and useful notes at [.gitignore](https://github.com/TasneemZh/Hosting-ToDoList/blob/main/.gitignore), so what are you waiting for? Go and take a quick look
