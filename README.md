@@ -46,4 +46,4 @@ For more details, see:
 
 -----------------
 
-I heard there are awesome and useful notes at [.gitignore](https://github.com/TasneemZh/Hosting-ToDoList/blob/main/.gitignore), so what are you waiting for? Go and take a quick look
+I also heard there are awesome and useful notes at [.gitignore](https://github.com/TasneemZh/Hosting-ToDoList/blob/main/.gitignore), so what are you waiting for? Go and take a quick look
